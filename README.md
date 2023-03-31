@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio Extra Stage 2 Turma Explorer 11 (Explorer Turma 11) </h1>
+<h1 align="center"> Desafio Extra Stage 2 (Explorer Turma 11) </h1>
 <p align="center"> Desafio extra concluido para avaliar habilidades adquiridas no stage 2 - Introdução ao HTML e CSS</p>
 
 ## Next Destiny (Landing Page)
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desafio realizado para concluir habilidades adquiridas no Stage 2.
 
-- [Acesse o projeto finalizado, offline (Estou com alguns problemas no servidor que hospeda o site)]()
+- [Acesse o projeto finalizado, online](https://devmaroto.github.io/Desafio-Extra-Stage-2-Turma-Explorer-11-/)
 
 ## 🔖 Layout
 
